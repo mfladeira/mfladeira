@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working with React, HTML, CSS
-
+Graduated in Software Engineering with 3 years experience in front-end and full-stack web development, I have skills in programming languages such as JavaScript, TypeScript, and Laravel.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mateus-ferreira0704) 
